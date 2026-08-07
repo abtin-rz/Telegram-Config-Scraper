@@ -1,5 +1,5 @@
-vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp##Collected%20by%20Abtin
-vless://00000000-0000-0000-0000-000000000000@0.0.0.0:2?security=&encryption=none&headerType=&type=tcp##GitHub:%20github.com/abtin-rz/telegram-scraper
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#Collected%20by%20Abtin
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:2?security=&encryption=none&headerType=&type=tcp#GitHub:%20github.com/abtin-rz/telegram-scraper
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0RGEwWnBtNGNBWWtvYzly@20.223.129.129:443#%40filembad
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0RGEwWnBtNGNBWWtvYzly@20.223.129.129:443?type=tcp#%40filembad
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR1U0WmpWa01HTmhZMlkzWXpNME5tSXhNRGd5TkRRNU9HVmpaalkyWTJZPQ@129.151.67.22:61312#%40filembad
