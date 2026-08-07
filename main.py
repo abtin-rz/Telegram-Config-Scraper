@@ -100,6 +100,8 @@ add_configs(extract_br(URL_BR))
 # نوشتن فایل از ابتدا
 with open(OUTPUT_FILE, "w", encoding="utf-8") as file:
 
+    file.write("# Collected by Abtin\n")
+    file.write("# GitHub: https://github.com/abtin-rz/telegram-scraper\n\n")
+
     for config in sorted(configs):
-        file.write(config)
-        file.write("\n\n")
+        file.write(config + "\n")
