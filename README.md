@@ -1,6 +1,6 @@
 # Telegram Config Scraper
 
-A simple Python scraper that collects VPN configs from public Telegram channel (@filembad) and you can use it easily to the **Subscription Link** OR Copy them in the **soup.txt file**.
+A simple Python scraper that collects VPN configs from public Telegram channel (@filembad) and you can use it easily to the **Subscription Link** OR copy them in the **soup.txt file**.
 
 ## Features
 
