@@ -2,7 +2,7 @@ name: Telegram Scraper
 
 on:
   schedule:
-    - cron: '*/10 * * * *'   # هر ۱۰ دقیقه اجرا شود
+    - cron: '*/30 * * * *'   # هر ۱۰ دقیقه اجرا شود
   workflow_dispatch:         # امکان اجرای دستی از تب Actions
   push:                      # با هر push روی main/master
     branches:
