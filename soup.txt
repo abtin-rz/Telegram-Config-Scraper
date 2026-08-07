@@ -1,12 +1,13 @@
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#Collected%20by%20Abtin
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:2?security=&encryption=none&headerType=&type=tcp#GitHub:%20github.com/abtin-rz/telegram-scraper
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2dG0wa21iZG56UzFYb0xD@20.223.129.129:443#%40filembad
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0RGEwWnBtNGNBWWtvYzly@20.223.129.129:443#%40filembad
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0RGEwWnBtNGNBWWtvYzly@20.223.129.129:443?type=tcp#%40filembad
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCTlh0ZTI3ekJ5dU52VHNR@20.223.129.129:443#%40filembad
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR1U0WmpWa01HTmhZMlkzWXpNME5tSXhNRGd5TkRRNU9HVmpaalkyWTJZPQ@129.151.67.22:61312#%40filembad
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTTmtoWXg5U1Q1cFVmMW9n@20.223.129.129:443#%40filembad
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.198:8080#%40filembad
 ss://YWVzLTI1Ni1nY206WXpjNE5qaGxOVFkzWkdVNU56ZG1PR1ZqT1RrMFpURmhNek01WVdObQ@95.38.166.233:11109#%40filembad
-trojan://bu3x1qqcic114jnl@46.8.78.175:45372?fp=chrome&pbk=EbDIlE_7HRQqoJOqjHQdgPSRG41aDZTIKs1bisiyRR4&security=reality&sid=92bc9bd6ac8389&sni=www-ams.samsung.com&spx=%2Fae582ab3f998aa9&type=tcp#%40filembad
 vless://01a95af3-a2f6-453e-9f88-b2fc011627cc@92.114.24.95:43630?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://06f86f1b-1fa0-437e-9e5d-8f8cf27bdf96@45.92.219.204:8088?security=reality&encryption=none&pbk=6m_clJWpXHndi176bB428JqroczCuJVMyhfMGuI9wRI&headerType=none&fp=chrome&spx=%2Fda033db9ffa4104&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=11e9#%40filembad
 vless://0b0915d7-6800-4580-a44b-77d84f105e6a@185.79.138.71:448?security=reality&encryption=none&pbk=CsDgNRcCwCkPIslfZpKTIK71KFpIFNsotbdzKcZVoH8&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=cd21e552537c7c0b#%40filembad
@@ -15,7 +16,6 @@ vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@85.11.161.8:444?security=reality&en
 vless://28d0edc6-93c9-4465-bac9-720274d8b8c4@201.51.1.11:40443?security=reality&encryption=none&pbk=WRveYv8IuUyvai4jgnQ6nWCL971-wKboe8evES5arlg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=69d4#%40filembad
 vless://33a31dc6-6bbc-46c0-9685-fb5e327d3c7d@152.233.43.71:443?security=reality&encryption=none&pbk=DaQjKlJbC2ksBaItYb0fjt1xkIcxRh_STIQ4rkrydjY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=7db44191#%40filembad
 vless://33a31dc6-6bbc-46c0-9685-fb5e327d3c7d@87.121.86.251:443?security=reality&encryption=none&pbk=qeBbCJY3sSjVSuxbUOf3pCtABiqwHqJVrlMRowDRYSk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=b1e2e720#%40filembad
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.134:443?security=reality&encryption=none&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=getsavesafe.net&sid=82f5d3a1e9c0b661#%40filembad
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?security=none&encryption=none&host=%2F%3F&headerType=none&type=tcp#%40filembad
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?security=none&encryption=none&host=%2F%3FJOIN_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#%40filembad
@@ -44,10 +44,12 @@ vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@45.143.201.8:443?encryption=none&fl
 vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@45.143.201.8:443?security=reality&encryption=none&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=hasty-dolphin.cdn.cachefleet.com#%40filembad
 vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@94.102.51.218:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=random&sni=fair-lunar.cdn.cachefleet.com&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M#%40filembad
 vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@94.102.51.218:443?security=reality&encryption=none&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=fair-lunar.cdn.cachefleet.com#%40filembad
-vless://c7f05610-744d-4e4c-8dee-e1d4f7933632@46.8.78.175:10691?encryption=none&fp=chrome&pbk=XOmolI8aGolTsoUKZ3jSvvV3lmmxGAxOA27mO339QCM&security=reality&sid=bd011089&sni=pre-prod.samsung.com&spx=%2F5463a1f44328dce&type=tcp#%40filembad
 vless://c896406b-ccc4-4c37-8b8c-15964f32a9a2@65.109.208.236:26795?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://d9aa9ea3-9388-483f-a58d-a754f33ec505@54.37.6.119:2053?mode=gun&security=reality&encryption=none&authority=&pbk=GS0dfvzX-bVKBDl2brVxsrE6T2WyXXkfgP3x-mQC7BY&type=grpc&serviceName=api.v1.data&sni=play.google.com&sid=524efc1f88592266#%40filembad
+vless://d9aa9ea3-9388-483f-a58d-a754f33ec505@54.37.6.119:2053?mode=gun&security=reality&encryption=none&pbk=GS0dfvzX-bVKBDl2brVxsrE6T2WyXXkfgP3x-mQC7BY&type=grpc&serviceName=api.v1.data&sni=play.google.com&sid=524efc1f88592266#%40filembad
 vless://d9b7eec6-0424-494f-aeee-981ec07fcaf3@185.143.233.235:2052?path=%2F&security=none&encryption=none&host=trir.sarzaminshadi13.ir&type=ws#%40filembad
+vless://dbeffc3c-529b-4c25-9fd9-9f0969380534@37.77.105.11:420?security=none&encryption=none&headerType=none&type=tcp#%40filembad
+vless://dbeffc3c-529b-4c25-9fd9-9f0969380534@37.77.105.11:445?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://e0bb3250-1873-4b9d-b9b5-7aa6c863885f@95.85.233.181:443?encryption=none&type=grpc&mode=gun&security=reality&fp=firefox&sni=c.primarymaster.online&pbk=S05RWQUVH-p3uqekd0iRpIeH__NpCt0XEN2xCiQJs3Y&sid=c56c3ba3b9f676c5#%40filembad
 vless://e0bb3250-1873-4b9d-b9b5-7aa6c863885f@95.85.233.181:443?mode=gun&security=reality&encryption=none&pbk=S05RWQUVH-p3uqekd0iRpIeH__NpCt0XEN2xCiQJs3Y&fp=firefox&type=grpc&sni=c.primarymaster.online&sid=c56c3ba3b9f676c5#%40filembad
 vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@45.88.13.3:8443?mode=gun&security=reality&encryption=none&authority=&pbk=FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk&type=grpc&serviceName=TunService&sni=download.nvidia.com#%40filembad
@@ -58,6 +60,7 @@ vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@64.49.38.6:993?security=reality&enc
 vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@64.49.38.6:993?security=reality&encryption=none&pbk=JeVpfwIwteGa8xfysPJUzrbHgmOPyLGomRqyH8Pi7W0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=download.nvidia.com#%40filembad
 vless://e9906741-9d06-41b3-87a5-0a875e84cd5e@162.159.157.123:2095?path=%2Fvl%2FYdchdFjEaLDc1fP7hGw1Xo7u26my9b%3Fed%3D2560&security=none&encryption=none&host=uob-coc1hsz2s1-sdlff-k.silannalis-35922.workers.dev&type=ws#%40filembad
 vless://e99ba96d-dec8-42eb-be53-19e71eef7cab@5.253.42.164:40443?security=reality&encryption=none&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=68a8#%40filembad
+vless://ffa289e7-a058-493a-b234-3db1f26378d7@194.87.30.161:22647?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=&encryption=none&type=ws#%40filembad
 vless://ffa289e7-a058-493a-b234-3db1f26378d7@194.87.30.161:22647?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=none&encryption=none&type=ws#%40filembad
 vless://ffa289e7-a058-493a-b234-3db1f26378d7@194.87.30.161:22647?path=%2F&security=&encryption=none&type=ws#%40filembad
 vless://ffa289e7-a058-493a-b234-3db1f26378d7@194.87.30.161:22647?path=%2F&security=none&encryption=none&type=ws#%40filembad
