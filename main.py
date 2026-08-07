@@ -9,7 +9,8 @@ from bs4 import BeautifulSoup
 # ===================== تنظیمات =====================
 
 URL_CODE = "https://t.me/s/filembad"
-URL_BR = "https://t.me/s/farah_vpn"
+URL_BR = ""
+# https://t.me/s/farah_vpn
 
 OUTPUT_FILE = "soup.txt"
 
