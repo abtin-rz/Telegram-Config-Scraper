@@ -24,7 +24,7 @@ python main.py
 ## Subscription
 
 ```
-https://raw.githubusercontent.com/abtin-rz/telegram-scraper/main/soup.txt
+https://raw.githubusercontent.com/abtin-rz/Telegram-Config-Scraper/main/soup.txt
 ```
 
 ## License
