@@ -1,5 +1,5 @@
-# Collected by Abtin
-# GitHub: https://github.com/abtin-rz/telegram-scraper
+# vless://....#Collected%20by%20Abtin
+# vless://....#GitHub:%20https://github.com/abtin-rz/telegram-scraper
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0RGEwWnBtNGNBWWtvYzly@20.223.129.129:443#%40filembad
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0RGEwWnBtNGNBWWtvYzly@20.223.129.129:443?type=tcp#%40filembad
