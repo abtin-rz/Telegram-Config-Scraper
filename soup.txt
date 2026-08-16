@@ -3,8 +3,8 @@ vless://00000000-0000-0000-0000-000000000000@0.0.0.0:2?security=&encryption=none
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bWtLZnhuZENaOWMzWUlrQUFtQU5ydGZJL21sR0p3d1Y5L0dkVlRZZ1czTT06SmF6eGlZYzNNYzV0TG4vVGUzVDU5VzZadzRaL0JQdWVwUTBWbFZEL2NaOD0@193.124.203.144:443?#%40filembad
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU@51.255.13.232:8388#%40filembad
 ss://YWVzLTI1Ni1nY206TXpReVpEUmxNRGhqWWpnek5EYzVPREF6TW1SaVpHVTNaVEV3WkRndw@172.104.40.98:443#%40filembad
-ss://YWVzLTI1Ni1nY206TlRJeVpUY3dORGMxT0RsbU1HRXpNemhtT0Rrd1pUUTJNamRoTWpFMQ@94.101.187.94:9124?prefix=%16%03%01%00%C2%A8%01%01#%40filembad
 ss://chacha20-ietf-poly1305:3jh4AaJTlphrzU7THNjvY05I5dyO8rw6@93.119.195.172:13#%40filembad
+ss://chacha20-ietf-poly1305:r0_pds2En38zW5zzVy1DZTdEfSmRNNdx@216.57.105.16:50#%40filembad
 vless://2cb6b4d9-0c74-45e2-a4fb-645bb8ac532a@91.124.19.38:443?security=reality&encryption=none&pbk=V2JprbR_aJkS7uX6anyU3nrswGxdvDQT2HpY4WnzuC8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nl6.o4ka-internet.com&sid=5629431325884ff0#%40filembad
 vless://4093e0fe-939d-41a8-95c1-395728cbbd93@170.114.46.6:80?encryption=none&host=j03.sahanwickramasinghe.me&path=/&security=none&type=ws#%40filembad
 vless://45172ad2-bfb4-4403-a525-2b60b4e75985@185.126.236.181:2053?path=%2F&security=none&encryption=none&host=www.icloud.com&type=ws#%40filembad
@@ -14,6 +14,7 @@ vless://7595cd50-9326-48e4-a7bc-802e85e643ec@162.19.156.14:6800?security=reality
 vless://7a3fa6b9-e862-4b3f-b742-a9168c4fa3b6@31.76.39.176:443?security=reality&encryption=none&pbk=6rrQ09njNw0wrfGg_S48ySsl4v17Q6uTAIMnECMWbyU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=uk.velajio.com&sid=c1fda2f8f007e108#%40filembad
 vless://7a3fa6b9-e862-4b3f-b742-a9168c4fa3b6@31.76.66.5:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fi.velajio.com&fp=firefox&pbk=6rrQ09njNw0wrfGg_S48ySsl4v17Q6uTAIMnECMWbyU&sid=5fd2b921da642f3e&type=tcp&headerType=none#%40filembad
 vless://7a3fa6b9-e862-4b3f-b742-a9168c4fa3b6@31.76.66.5:443?security=reality&pbk=6rrQ09njNw0wrfGg_S48ySsl4v17Q6uTAIMnECMWbyU&sid=5fd2b921da642f3e&sni=fi.velajio.com&flow=xtls-rprx-vision&headerType=none&encryption=none&fp=firefox&type=tcp#%40filembad
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.148.244:2095?security=none&path=/&host=fuckingfangbinxing.pusytroller.cf&type=ws&encryption=none#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.157.224.206:22224?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://e974639e-951d-4284-903d-c0712b11c8fe@80.76.60.120:443?security=&encryption=none&headerType=none&type=tcp#%40filembad
 vless://e974639e-951d-4284-903d-c0712b11c8fe@80.76.60.120:445?security=none&encryption=none&headerType=none&type=tcp#%40filembad
@@ -23,4 +24,5 @@ vless://e9a56d95-778b-4f6e-8b50-80c05e686191@95.182.99.100:443?security=none&enc
 vless://e9a56d95-778b-4f6e-8b50-80c05e686191@95.182.99.100:8443?path=%2F&security=none&encryption=none&type=ws#%40filembad
 vless://ee71862e-816b-4d26-97d2-f200898e385d@144.124.238.87:443?security=reality&encryption=none&pbk=RczU3DRITvFHE2I8iPI2aWMtiZpVrd21lFTNE1Mmwz8&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.cisco.com&sid=b7bbbeeeb367bf3a#%40filembad
 vless://ee71862e-816b-4d26-97d2-f200898e385d@212.118.40.187:443?security=reality&encryption=none&pbk=MfOXevYFoqnwIn6dUiPZvWYRfYHyb5lzBy3R1OSsrWg&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.cisco.com&sid=f3e8b2b1#%40filembad
+vmess://eyJhZGQiOiIxOTMuMTExLjc4LjEwNiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyNmI2ZmQzMi0wNGU2LTQzZmYtYTA2NS1iZWEzNmY3NDg2NTUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicGNzIjoiIiwicG9ydCI6IjU4MzA0IiwicHMiOiJAZmlsZW1iYWQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIiwidmNuIjoiIn0=
 vmess://eyJhZGQiOiIyMTIuNDcuMjUwLjc3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImEzYWFiYmVkLTc2MzYtNDFhNi04MjYzLWM2YWFkZDcyM2QyOSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiOTE5IiwicHMiOiJAZmlsZW1iYWQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
