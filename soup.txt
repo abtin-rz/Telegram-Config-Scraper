@@ -38,12 +38,12 @@ vless://791a171e-c0af-4bd7-b8ce-43541c7585db@177.3.208.85:443?security=reality&e
 vless://86ff5721-87f2-4682-9bc2-b1b34a8ca91f@128.1.12.97:443?security=reality&encryption=none&pbk=4vnK2LLhfy9-plqFrSE3Di9fqTXlajXtll7NoYZYQ28&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=05ac92984da91336#%40filembad
 vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=%2F%3F%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2048&security=reality&encryption=none&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=chrome&spx=%2Fy52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#%40filembad
 vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=%2F%3F%40TOOTFFARANGI_TOOTFFARANGI%3Fed%3D2048&security=reality&encryption=none&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=chrome&spx=%2Fy52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#%40filembad
-vless://8c105407-82fb-4dd1-8df4-916d34a7d3fe@194.48.250.31:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&host=www.google.com&fp=qq&type=xhttp&sni=www.google.com#%40filembad
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@134.98.158.147:62145?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.210.242:62145?encryption=none&security=none&type=tcp&headerType=none#%40filembad
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.222.243:62145?encryption=none&security=none&type=tcp&headerType=none#%40filembad
 vless://9638a83e-f1f7-4cc8-a602-924965d9534f@23.251.56.78:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=E6Y9lNizCXo8tJ6EXwLYQIjyIwmxIs4foyRlY2MgkjA&security=reality&sid=59ccabb0a1483c4b&sni=www.cloudflare.com&type=tcp#%40filembad
 vless://9638a83e-f1f7-4cc8-a602-924965d9534f@23.251.56.78:443?security=reality&encryption=none&pbk=E6Y9lNizCXo8tJ6EXwLYQIjyIwmxIs4foyRlY2MgkjA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=59ccabb0a1483c4b#%40filembad
+vless://a6769fd5-286c-4f69-8389-ba15061f35f3@arvancloud.ir:8080?path=%2Fws&security=&encryption=none&host=newcloud6.tonbrownton.com&type=ws#%40filembad
 vless://ad58e4bb-accb-4a8c-bc9b-cdfd39a1a0cb@195.154.157.94:8443?encryption=none&security=reality&type=tcp&headerType=none&sni=cdn.jsdelivr.net&fp=firefox&pbk=wo78BnBCULVPi9DQ_DcpifAfXvtbZkv-KPDFtG0RQVo&sid=b7d2#%40filembad
 vless://ad58e4bb-accb-4a8c-bc9b-cdfd39a1a0cb@62.210.87.99:443?encryption=none&security=reality&type=tcp&headerType=none&sni=amp-api-edge.apps.apple.com&fp=qq&pbk=wts9eWNO_GZHanVEXfgRVFMeRI6ejv8yEgRs_9q_kQk&sid=08#%40filembad
 vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@180.178.60.254:10000?security=&encryption=none&headerType=none&type=tcp#%40filembad
@@ -53,7 +53,6 @@ vless://dbc43f55-79cd-4331-84ff-d891356d387a@45.195.111.108:443?encryption=none&
 vless://dbc43f55-79cd-4331-84ff-d891356d387a@45.195.111.108:443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=f4b4a6365558ea2e#%40filembad
 vless://dd358774-cd02-42b7-9716-d9f3627cefac@149.112.84.49:54237?security=reality&encryption=none&pbk=wqgM2hNgNhv3a0_zLHYiitoFGkN_ubAQMhW48WfW-io&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=c386acc3c7b89538#%40filembad
 vless://e01b5875-0b0b-4056-bbf5-0b0ecdc97937@128.1.12.164:443?security=reality&encryption=none&pbk=Z41OxiwFrf0VAEv7_qXoEMKSmLJPjEPPJzXpP1s6gGk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=977a84fa5512be5a#%40filembad
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.70.33.197:22223?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.70.33.197:22224?encryption=none&security=none&type=tcp#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.70.33.197:22224?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.253.165:22222?encryption=none&security=none&type=tcp&headerType=none#%40filembad
